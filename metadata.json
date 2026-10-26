@@ -1,0 +1,8 @@
+{
+  "name": "KYU AI",
+  "description": "Enterprise AI Data Analyst platform for automated profiling, data cleaning, statistical reasoning, forecasting, anomalies, text-to-SQL, and executive reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
